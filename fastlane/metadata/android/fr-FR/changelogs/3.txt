@@ -1,0 +1,2 @@
+Améliorations internes mineures
+Correction de la configuration de fastlane

@@ -1,0 +1,2 @@
+Pequeñas mejoras en el motor
+Arreglada la configuración de fastlane
